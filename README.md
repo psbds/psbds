@@ -1,16 +1,20 @@
-### Hi there 👋
+```console.log('Hello World')```
 
-<!--
-**psbds/psbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Software Engineer with focus on web applications and systems architecture. Working as a Cloud Solution Architect in Microsoft LATAM, helping partners to the deliver high quality solutions in Azure.
 
-Here are some ideas to get you started:
+My passions are primary development (specially with Javascript and C#) and the Container World (I :heartpulse: Docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [LinkedIn Profile](https://www.linkedin.com/in/paulobaima/)
+* [DockerHub Profile](https://hub.docker.com/u/psbds)
+
+
+## Some of the projects i've been working on:
+
+### Kubernetes World
+* [psbds/helm-rest](https://github.com/psbds/helm-rest): Web Application to enable to run helm commands using REST calls.
+* [psbds/dev-containers-aks](https://github.com/psbds/dev-containers-aks): VSCode Development Containter with Azure-Cli, Kubectl, Helm3, Istio, Velero and More...
+
+### Azure World
+* [LATAMOCPTECHTEAM/az-marketplace-sandbox](https://github.com/LATAMOCPTECHTEAM/az-marketplace-sandbox): Enable developers creating/integrating Apps to the Azure Marketplace to be able to test the integrations locally.
+* [LATAMOCPTECHTEAM/az-marketplace-webhook-queue](https://github.com/LATAMOCPTECHTEAM/az-marketplace-webhook-queue): his app was created as a middleware to integrate Azure Marketplace Webhooks with diverse queue tecnologies.
+
