@@ -8,7 +8,7 @@ My passions are primary development (specially with Javascript and C#) and the C
 * [DockerHub Profile](https://hub.docker.com/u/psbds)
 
 
-## Some of the projects i've been working on:
+## Some of the projects I've been working on:
 
 ### Kubernetes World
 * [psbds/helm-rest](https://github.com/psbds/helm-rest): Web Application to enable to run helm commands using REST calls.
