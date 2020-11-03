@@ -16,5 +16,5 @@ My passions are primary development (specially with Javascript and C#) and the C
 
 ### Azure World
 * [LATAMOCPTECHTEAM/az-marketplace-sandbox](https://github.com/LATAMOCPTECHTEAM/az-marketplace-sandbox): Enable developers creating/integrating Apps to the Azure Marketplace to be able to test the integrations locally.
-* [LATAMOCPTECHTEAM/az-marketplace-webhook-queue](https://github.com/LATAMOCPTECHTEAM/az-marketplace-webhook-queue): his app was created as a middleware to integrate Azure Marketplace Webhooks with diverse queue tecnologies.
+* [LATAMOCPTECHTEAM/az-marketplace-webhook-queue](https://github.com/LATAMOCPTECHTEAM/az-marketplace-webhook-queue): This app was created as a middleware to integrate Azure Marketplace Webhooks with diverse queue tecnologies.
 
