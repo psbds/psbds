@@ -9,6 +9,9 @@ My passions are primary development (specially with Javascript and C#) and the C
 
 
 ## Some of the projects I've been working on:
+### Developer Tools
+* [psbds/vscode-jsonmap](https://github.com/psbds/vscode-jsonmap): The JsonMap extension provides the capabilities of running javascript commands like: map, filter, find, reduce and more in your open Json files, making it easier and quicker to extract insights of temporary files without needing to install additional software or creating temporary code.
+
 
 ### Kubernetes World
 * [psbds/helm-rest](https://github.com/psbds/helm-rest): Web Application to enable to run helm commands using REST calls.
