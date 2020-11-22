@@ -16,6 +16,8 @@ My passions are primary development (specially with Javascript and C#) and the C
 ### Kubernetes World
 * [psbds/helm-rest](https://github.com/psbds/helm-rest): Web Application to enable to run helm commands using REST calls.
 * [psbds/dev-containers-aks](https://github.com/psbds/dev-containers-aks): VSCode Development Containter with Azure-Cli, Kubectl, Helm3, Istio, Velero and More...
+* [psbds/aks-start-stop-automation](https://github.com/LATAMOCPTECHTEAM/aks-start-stop-automation): Azure Automation to start/stop AKS cluster using Azure Automation Powershell Script
+
 
 ### Azure World
 * [LATAMOCPTECHTEAM/az-marketplace-sandbox](https://github.com/LATAMOCPTECHTEAM/az-marketplace-sandbox): Enable developers creating/integrating Apps to the Azure Marketplace to be able to test the integrations locally.
