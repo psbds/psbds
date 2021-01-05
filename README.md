@@ -1,6 +1,6 @@
 ```console.log('Hello World')```
 
-I'm Software Engineer with focus on web applications and systems architecture. Working as a Cloud Solution Architect in Microsoft LATAM, helping partners to the deliver high quality solutions in Azure.
+I'm Software Engineer with focus on web applications and systems architecture. Working as a Software Engineer in Clearsale.
 
 My passions are primary development (specially with Javascript and C#) and the Container World (I :heartpulse: Docker)
 
