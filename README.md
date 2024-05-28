@@ -1,4 +1,4 @@
-Hi I'm a Software Engineer 😀
+Hi, I'm a Software Engineer 😀
 
 * [LinkedIn Profile](https://www.linkedin.com/in/paulobaima/)
 
